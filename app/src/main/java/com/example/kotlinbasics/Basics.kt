@@ -177,4 +177,5 @@ fun triangles() {
     println("Please input 1 for triangle, 2 for square")
     var userShape = readln().toInt()
     triangles(numRows, userInput, userShape)
+
 }
